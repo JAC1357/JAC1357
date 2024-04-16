@@ -32,9 +32,9 @@ Galaxy Hero is an retro style 2D shoot 'em up game created within Unity using C#
 <br/>
 <br/>
 <br/>
+<br>
 
 View more on my [website](https://portfolio.com)
 
-<br/>
 <br/>
 <br/>
