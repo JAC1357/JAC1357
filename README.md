@@ -2,22 +2,21 @@
 
 I'm a software engineer passionate about all things Unity, C#, XR, and game development.
 
-[<img align="left" width="22px" src="https://assetsio.reedpopcdn.com/Itch.io_logo.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"/>Itch](https://elobo-games.itch.io/)
+[<img align="left" width="22px" src="https://assetsio.reedpopcdn.com/Itch.io_logo.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"/>Itch](https://itch.io)
 
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/eric-veciana/)
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/jesuscoria/)
 
-[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://eveciana21.wixsite.com/lobogames
-)
+[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](Portfolio)
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Legacy to New Input System](https://medium.com/@eveciana21/legacy-new-input-system-interactable-8b2da4011d43)
-- [C# Survival Guide: Lambda Expressions](https://medium.com/@eveciana21/c-survival-guide-lambda-expression-8a728b741c7e)
-- [Building VR Game on Android](https://medium.com/@eveciana21/building-your-vr-game-on-android-170c4321e358)
-- [Setting Up Gaze Interactions in VR](https://medium.com/@eveciana21/setting-up-gaze-interaction-40c10d3b3941)
-- [Adding Volumetric Fog](https://medium.com/@eveciana21/adding-fog-into-my-office-scene-42f2c9e96c8a)
+- [Item 1](https://medium.com)
+- [Item 2](https://medium.com)
+- [Item 3](https://medium.com)
+- [Item 4](https://medium.com)
+- [Item 5](https://medium.com)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://eveciana21.wixsite.com/lobogames)
+View more on my [website](https://portfolio.com)
 
 ---
 ### 💾 My projects
