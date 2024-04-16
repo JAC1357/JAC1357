@@ -10,7 +10,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Homing Missile]([https://medium.com](https://medium.com/@jalexcoria/homing-projectile-9bc0ec35ac61))
+- [Homing Missile](https://medium.com/@jalexcoria/homing-projectile-9bc0ec35ac61)
 - [Item 2](https://medium.com)
 - [Item 3](https://medium.com)
 - [Item 4](https://medium.com)
