@@ -21,80 +21,10 @@ View more on my [website](https://portfolio.com)
 ---
 ### 💾 My projects
 
-<img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
-
-
-
-# Christmas Game Jam
-This game was created for the "Jame Gam Christmas Edition" Game Jam.​
-
-
-Collaborated with a small team using Git.
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 <img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
 
-# Galaxy Hero
-Galaxy Hero is an original 2D shoot 'em up game created within Unity using C#.
-<br/>
-<br/>
-
-Original music created as well.
-
-<br/>
-<br/>
-<br/>
-
-<img src="https://i.imgur.com/xPx9TWf.png" align="left" width="400px"/> 
-
-# VR Escape Room
-This is an Escape Room created in XR within Unity using the Universal Render Pipeline.
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-
-
-<img src="https://i.imgur.com/GqTlUxf.png" align="left" width="400px"/> 
-
-# Galactic Defender
-This game was created with the intent of demonstrating my ability to use Cinemachine and Timeline using Unity 3D and C#.​
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-<img src="https://i.imgur.com/RBRNHWb.png" align="left" width="400px"/> 
-
-# Level Design HDRP
-These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<img src="https://i.imgur.com/UoEXuml.png" align="left" width="400px"/> 
-
-# Level Design URP
-These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
-<br/>
-<br/>
-<br/>
-<br/>
+# 2D Galaxy Hero
+Galaxy Hero is an retro style 2D shoot 'em up game created within Unity using C#.
 <br/>
 <br/>
 
@@ -102,6 +32,5 @@ These level design projects were created to showcase the incredible features of 
 <br/>
 <br/>
 <br/>
-<br/>
 
-View more on my [website](https://eveciana21.wixsite.com/lobogames)
+View more on my [website](https://portfolio.com)
