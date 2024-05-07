@@ -8,15 +8,6 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 [<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](Portfolio)
 
-### 📝 Check out my latest blog posts,
-<!-- BLOG-POST-LIST:START -->
-- [Homing Missile](https://medium.com/@jalexcoria/homing-projectile-9bc0ec35ac61)
-- [Setting Up Turrets on a Boss](https://medium.com/@jalexcoria/setting-up-turrets-on-a-boss-8679f261d4a2)
-- [Thruster: Scaling Bar UI](https://medium.com/@jalexcoria/thruster-scaling-bar-ui-cfaf359c048c)
-- [Enemy destroys power ups](https://medium.com/@jalexcoria/enemy-destroys-power-ups-f45225af4cdd)
-- [Shield Strength System](https://medium.com/@jalexcoria/shield-strength-system-8f11a7f649e5)
-<!-- BLOG-POST-LIST:END -->
-View more on my [website](https://portfolio.com)
 
 ### Languages and Tools:
 
